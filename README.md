@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wint Phyusin Maung</h1>
 <h3 align="center">A Frontend Developer and cs student</h3>
 
-<img src="https://www.apple.com/newsroom/images/product/app-store/apple_wwdc-app-developer-academy_hero_05112021_big.gif.large.gif" width="1000" height="370" alt="coding"/>
+
 
 - 🔭 I’m currently working on **laravel-react-setup**
 
