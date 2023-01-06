@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Wint Phyusin Maung</h1>
-<h3 align="center">A Frontend Developer and cs student</h3>
+<h3 align="center">A web developer who love backend development more</h3>
 
 
 
 - 🔭 I’m currently working on **laravel-react-setup**
 
-- 🌱 I’m currently learning **React, Laravel , and SQL**
+- 🌱 I’m currently learning **Computer Science, React, Laravel  and SQL**
 
 - 👯 I’m looking to collaborate on **open-source projects**
 
@@ -16,7 +16,7 @@
 - 📫 How to reach me **phyumaung423@gmail.com**
 
 - ⚡ Fun fact **I am funny and introverted who communicate with people bravely**
-
+- 🎯 Data Structures and Algorithms
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
