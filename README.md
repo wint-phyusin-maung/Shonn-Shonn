@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **phyumaung423@gmail.com**
 
-- ⚡ Fun fact **I am just a **
+- ⚡ Fun fact **Imagine if I could walk all the time...haha, wouldn't that be something?**
 - 🎯 Data Structures and Algorithms
 <h3 align="left">Connect with me:</h3>
 <p align="left">
