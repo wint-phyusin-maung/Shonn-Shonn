@@ -3,17 +3,12 @@
 
 
 
-- 🔭 I’m currently working on **laravel-react-setup**
-
-- 🌱 I’m currently learning **Computer Science, React, Laravel, Vueand SQL**
-
-- 👯 I’m looking to collaborate on **open-source projects**
+- 🔭 I’m currently working on **vue, react and laravel projects**
 
 - 📫 How to reach me **phyumaung423@gmail.com**
 
 - ⚡ Fun fact **Imagine if I could walk all the time...haha, wouldn't that be something?**
 - 🎯 Data Structures and Algorithms
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
