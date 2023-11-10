@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Wint Phyusin Maung</h1>
+<h1 align="center">Hi I'm Wint Phyusin Maung</h1>
 <h3 align="center">Nurturing My Aspiration for Future Software Engineering</h3>
 
 
